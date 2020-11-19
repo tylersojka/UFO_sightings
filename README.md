@@ -21,7 +21,7 @@ The purpose of this analysis was to build a simple web page to showcase a datase
 
 *****
 
-To use the web page it is as easy as entering a value into one of the search fields. You can enter just one, or up to 5, and if there is an entry matching all searched for criteria, it will be displayed. To clear your searches, simply click the clear filters button and the filters will be cleared and the whole data set will be re-loaded. Below is a short video walking you through the process of entering filter criteria, and how to clear them.
+To use the web page it is as easy as entering a value into one of the search fields. You can enter just one, or up to 5, and if there is an entry matching all searched for criteria, it will be displayed. To clear your searches, simply click the clear filters button and the filters will be cleared and the whole data set will be re-loaded. Below is a short video walking you through the process of entering filter criteria, and how to clear them. The search input will not be active until you click into another box, click outside of the cell, or hit enter.
 
 ![searchgif](static/images/ufo_screen_recording.gif)
 
